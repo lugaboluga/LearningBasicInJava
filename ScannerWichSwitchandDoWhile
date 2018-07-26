@@ -33,7 +33,7 @@ package mycode;
 				case 9: System.out.println(a);
 					break;
 				} 	
-			} while (user==9);			
+			} while (user==9);	\\When the user select the number nine the  code began a loop, I don't wanted this but... kkkkk		
 		}
 }
 
